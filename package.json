@@ -1,0 +1,22 @@
+{
+  "name": "dream-form",
+  "version": "1.0.0",
+  "description": "dream form library",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/couth/dream-form.git"
+  },
+  "keywords": [
+    "dream-form"
+  ],
+  "author": "Carl Liu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/couth/dream-form/issues"
+  },
+  "homepage": "https://github.com/couth/dream-form#readme"
+}
